@@ -1,0 +1,4092 @@
+[
+    {
+        "seriesID": "LASST450000000000005",
+        "data": [
+            {
+                "year": "2021",
+                "period": "M04",
+                "periodName": "April",
+                "latest": "true",
+                "value": "2263256",
+                "footnotes": [
+                    {
+                        "code": "P",
+                        "text": "Preliminary."
+                    }
+                ],
+                "date": "April, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M03",
+                "periodName": "March",
+                "value": "2267442",
+                "footnotes": [
+                    {}
+                ],
+                "date": "March, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M02",
+                "periodName": "February",
+                "value": "2253252",
+                "footnotes": [
+                    {}
+                ],
+                "date": "February, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M01",
+                "periodName": "January",
+                "value": "2235303",
+                "footnotes": [
+                    {}
+                ],
+                "date": "January, 2021"
+            },
+            {
+                "year": "2020",
+                "period": "M12",
+                "periodName": "December",
+                "value": "2223480",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "December, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M11",
+                "periodName": "November",
+                "value": "2217588",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "November, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M10",
+                "periodName": "October",
+                "value": "2306258",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "October, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M09",
+                "periodName": "September",
+                "value": "2292518",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "September, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M08",
+                "periodName": "August",
+                "value": "2272014",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "August, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M07",
+                "periodName": "July",
+                "value": "2243805",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "July, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M06",
+                "periodName": "June",
+                "value": "2209060",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "June, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M05",
+                "periodName": "May",
+                "value": "2092571",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "May, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M04",
+                "periodName": "April",
+                "value": "2086262",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "April, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M03",
+                "periodName": "March",
+                "value": "2297323",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "March, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M02",
+                "periodName": "February",
+                "value": "2299341",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "February, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M01",
+                "periodName": "January",
+                "value": "2304184",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "January, 2020"
+            },
+            {
+                "year": "2019",
+                "period": "M12",
+                "periodName": "December",
+                "value": "2309345",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "December, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M11",
+                "periodName": "November",
+                "value": "2312815",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "November, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M10",
+                "periodName": "October",
+                "value": "2313318",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "October, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M09",
+                "periodName": "September",
+                "value": "2311482",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "September, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M08",
+                "periodName": "August",
+                "value": "2308837",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "August, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M07",
+                "periodName": "July",
+                "value": "2306140",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "July, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M06",
+                "periodName": "June",
+                "value": "2303239",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "June, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M05",
+                "periodName": "May",
+                "value": "2300177",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "May, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M04",
+                "periodName": "April",
+                "value": "2296988",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "April, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M03",
+                "periodName": "March",
+                "value": "2293641",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "March, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M02",
+                "periodName": "February",
+                "value": "2289616",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "February, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M01",
+                "periodName": "January",
+                "value": "2284101",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "January, 2019"
+            },
+            {
+                "year": "2018",
+                "period": "M12",
+                "periodName": "December",
+                "value": "2276994",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "December, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M11",
+                "periodName": "November",
+                "value": "2268998",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "November, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M10",
+                "periodName": "October",
+                "value": "2261071",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "October, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M09",
+                "periodName": "September",
+                "value": "2253839",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "September, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M08",
+                "periodName": "August",
+                "value": "2247635",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "August, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M07",
+                "periodName": "July",
+                "value": "2242686",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "July, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M06",
+                "periodName": "June",
+                "value": "2238712",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "June, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M05",
+                "periodName": "May",
+                "value": "2234663",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "May, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M04",
+                "periodName": "April",
+                "value": "2229489",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "April, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M03",
+                "periodName": "March",
+                "value": "2222775",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "March, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M02",
+                "periodName": "February",
+                "value": "2215664",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "February, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M01",
+                "periodName": "January",
+                "value": "2209884",
+                "footnotes": [
+                    {
+                        "code": "R",
+                        "text": "Data were subject to revision on March 3, 2021."
+                    }
+                ],
+                "date": "January, 2018"
+            }
+        ],
+        "State": "South Carolina",
+        "Area": "Statewide",
+        "Industry": "General"
+    },
+    {
+        "seriesID": "LAUMT131226000000005",
+        "data": [
+            {
+                "year": "2021",
+                "period": "M03",
+                "periodName": "March",
+                "latest": "true",
+                "value": "261134",
+                "footnotes": [
+                    {
+                        "code": "P",
+                        "text": "Preliminary."
+                    }
+                ],
+                "date": "March, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M02",
+                "periodName": "February",
+                "value": "258965",
+                "footnotes": [
+                    {}
+                ],
+                "date": "February, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M01",
+                "periodName": "January",
+                "value": "255752",
+                "footnotes": [
+                    {}
+                ],
+                "date": "January, 2021"
+            },
+            {
+                "year": "2020",
+                "period": "M12",
+                "periodName": "December",
+                "value": "255791",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M11",
+                "periodName": "November",
+                "value": "254818",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M10",
+                "periodName": "October",
+                "value": "258476",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M09",
+                "periodName": "September",
+                "value": "250105",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M08",
+                "periodName": "August",
+                "value": "246853",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M07",
+                "periodName": "July",
+                "value": "246356",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M06",
+                "periodName": "June",
+                "value": "245273",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M05",
+                "periodName": "May",
+                "value": "240340",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M04",
+                "periodName": "April",
+                "value": "233642",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M03",
+                "periodName": "March",
+                "value": "261959",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M02",
+                "periodName": "February",
+                "value": "263565",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M01",
+                "periodName": "January",
+                "value": "262091",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2020"
+            },
+            {
+                "year": "2019",
+                "period": "M12",
+                "periodName": "December",
+                "value": "261678",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M11",
+                "periodName": "November",
+                "value": "260877",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M10",
+                "periodName": "October",
+                "value": "261124",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M09",
+                "periodName": "September",
+                "value": "259979",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M08",
+                "periodName": "August",
+                "value": "257475",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M07",
+                "periodName": "July",
+                "value": "258329",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M06",
+                "periodName": "June",
+                "value": "258280",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M05",
+                "periodName": "May",
+                "value": "258427",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M04",
+                "periodName": "April",
+                "value": "260776",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M03",
+                "periodName": "March",
+                "value": "257033",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M02",
+                "periodName": "February",
+                "value": "256034",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M01",
+                "periodName": "January",
+                "value": "255133",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2019"
+            },
+            {
+                "year": "2018",
+                "period": "M12",
+                "periodName": "December",
+                "value": "257275",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M11",
+                "periodName": "November",
+                "value": "255623",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M10",
+                "periodName": "October",
+                "value": "255859",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M09",
+                "periodName": "September",
+                "value": "254717",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M08",
+                "periodName": "August",
+                "value": "252801",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M07",
+                "periodName": "July",
+                "value": "256067",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M06",
+                "periodName": "June",
+                "value": "257075",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M05",
+                "periodName": "May",
+                "value": "257459",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M04",
+                "periodName": "April",
+                "value": "262067",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M03",
+                "periodName": "March",
+                "value": "258632",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M02",
+                "periodName": "February",
+                "value": "257964",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M01",
+                "periodName": "January",
+                "value": "256122",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2018"
+            }
+        ],
+        "State": "Georgia",
+        "Area": "Augusta-Richmond County, GA-SC",
+        "Industry": "General"
+    },
+    {
+        "seriesID": "LAUMT451670000000005",
+        "data": [
+            {
+                "year": "2021",
+                "period": "M03",
+                "periodName": "March",
+                "latest": "true",
+                "value": "378730",
+                "footnotes": [
+                    {
+                        "code": "P",
+                        "text": "Preliminary."
+                    }
+                ],
+                "date": "March, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M02",
+                "periodName": "February",
+                "value": "376231",
+                "footnotes": [
+                    {}
+                ],
+                "date": "February, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M01",
+                "periodName": "January",
+                "value": "369828",
+                "footnotes": [
+                    {}
+                ],
+                "date": "January, 2021"
+            },
+            {
+                "year": "2020",
+                "period": "M12",
+                "periodName": "December",
+                "value": "368189",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M11",
+                "periodName": "November",
+                "value": "365961",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M10",
+                "periodName": "October",
+                "value": "380821",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M09",
+                "periodName": "September",
+                "value": "377528",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M08",
+                "periodName": "August",
+                "value": "376826",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M07",
+                "periodName": "July",
+                "value": "375200",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M06",
+                "periodName": "June",
+                "value": "368820",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M05",
+                "periodName": "May",
+                "value": "344989",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M04",
+                "periodName": "April",
+                "value": "338991",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M03",
+                "periodName": "March",
+                "value": "382460",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M02",
+                "periodName": "February",
+                "value": "385783",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M01",
+                "periodName": "January",
+                "value": "383655",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2020"
+            },
+            {
+                "year": "2019",
+                "period": "M12",
+                "periodName": "December",
+                "value": "384916",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M11",
+                "periodName": "November",
+                "value": "385214",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M10",
+                "periodName": "October",
+                "value": "388172",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M09",
+                "periodName": "September",
+                "value": "386385",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M08",
+                "periodName": "August",
+                "value": "386968",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M07",
+                "periodName": "July",
+                "value": "390387",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M06",
+                "periodName": "June",
+                "value": "388680",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M05",
+                "periodName": "May",
+                "value": "385788",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M04",
+                "periodName": "April",
+                "value": "385269",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M03",
+                "periodName": "March",
+                "value": "382886",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M02",
+                "periodName": "February",
+                "value": "380400",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M01",
+                "periodName": "January",
+                "value": "375769",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2019"
+            },
+            {
+                "year": "2018",
+                "period": "M12",
+                "periodName": "December",
+                "value": "376706",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M11",
+                "periodName": "November",
+                "value": "375747",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M10",
+                "periodName": "October",
+                "value": "376677",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M09",
+                "periodName": "September",
+                "value": "370833",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M08",
+                "periodName": "August",
+                "value": "372464",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M07",
+                "periodName": "July",
+                "value": "377716",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M06",
+                "periodName": "June",
+                "value": "375593",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M05",
+                "periodName": "May",
+                "value": "373154",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M04",
+                "periodName": "April",
+                "value": "371144",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M03",
+                "periodName": "March",
+                "value": "366832",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M02",
+                "periodName": "February",
+                "value": "365000",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M01",
+                "periodName": "January",
+                "value": "359416",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2018"
+            }
+        ],
+        "State": "South Carolina",
+        "Area": "Charleston-North Charleston, SC",
+        "Industry": "General"
+    },
+    {
+        "seriesID": "LAUMT371674000000005",
+        "data": [
+            {
+                "year": "2021",
+                "period": "M03",
+                "periodName": "March",
+                "latest": "true",
+                "value": "1301000",
+                "footnotes": [
+                    {
+                        "code": "P",
+                        "text": "Preliminary."
+                    }
+                ],
+                "date": "March, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M02",
+                "periodName": "February",
+                "value": "1289637",
+                "footnotes": [
+                    {}
+                ],
+                "date": "February, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M01",
+                "periodName": "January",
+                "value": "1276201",
+                "footnotes": [
+                    {}
+                ],
+                "date": "January, 2021"
+            },
+            {
+                "year": "2020",
+                "period": "M12",
+                "periodName": "December",
+                "value": "1284503",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M11",
+                "periodName": "November",
+                "value": "1286251",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M10",
+                "periodName": "October",
+                "value": "1292920",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M09",
+                "periodName": "September",
+                "value": "1269618",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M08",
+                "periodName": "August",
+                "value": "1255772",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M07",
+                "periodName": "July",
+                "value": "1243262",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M06",
+                "periodName": "June",
+                "value": "1219237",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M05",
+                "periodName": "May",
+                "value": "1141588",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M04",
+                "periodName": "April",
+                "value": "1114530",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M03",
+                "periodName": "March",
+                "value": "1284366",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M02",
+                "periodName": "February",
+                "value": "1339944",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M01",
+                "periodName": "January",
+                "value": "1327935",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2020"
+            },
+            {
+                "year": "2019",
+                "period": "M12",
+                "periodName": "December",
+                "value": "1331069",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M11",
+                "periodName": "November",
+                "value": "1334663",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M10",
+                "periodName": "October",
+                "value": "1342356",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M09",
+                "periodName": "September",
+                "value": "1331553",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M08",
+                "periodName": "August",
+                "value": "1322508",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M07",
+                "periodName": "July",
+                "value": "1330748",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M06",
+                "periodName": "June",
+                "value": "1327213",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M05",
+                "periodName": "May",
+                "value": "1312919",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M04",
+                "periodName": "April",
+                "value": "1310733",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M03",
+                "periodName": "March",
+                "value": "1313844",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M02",
+                "periodName": "February",
+                "value": "1305546",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M01",
+                "periodName": "January",
+                "value": "1292751",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2019"
+            },
+            {
+                "year": "2018",
+                "period": "M12",
+                "periodName": "December",
+                "value": "1293925",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M11",
+                "periodName": "November",
+                "value": "1296166",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M10",
+                "periodName": "October",
+                "value": "1303813",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M09",
+                "periodName": "September",
+                "value": "1293788",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M08",
+                "periodName": "August",
+                "value": "1277468",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M07",
+                "periodName": "July",
+                "value": "1293870",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M06",
+                "periodName": "June",
+                "value": "1288769",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M05",
+                "periodName": "May",
+                "value": "1282389",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M04",
+                "periodName": "April",
+                "value": "1275816",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M03",
+                "periodName": "March",
+                "value": "1275531",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M02",
+                "periodName": "February",
+                "value": "1265307",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M01",
+                "periodName": "January",
+                "value": "1252233",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2018"
+            }
+        ],
+        "State": "North Carolina",
+        "Area": "Charlotte-Concord-Gastonia, NC-SC",
+        "Industry": "General"
+    },
+    {
+        "seriesID": "LAUMT451790000000005",
+        "data": [
+            {
+                "year": "2021",
+                "period": "M03",
+                "periodName": "March",
+                "latest": "true",
+                "value": "386579",
+                "footnotes": [
+                    {
+                        "code": "P",
+                        "text": "Preliminary."
+                    }
+                ],
+                "date": "March, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M02",
+                "periodName": "February",
+                "value": "384096",
+                "footnotes": [
+                    {}
+                ],
+                "date": "February, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M01",
+                "periodName": "January",
+                "value": "374381",
+                "footnotes": [
+                    {}
+                ],
+                "date": "January, 2021"
+            },
+            {
+                "year": "2020",
+                "period": "M12",
+                "periodName": "December",
+                "value": "376883",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M11",
+                "periodName": "November",
+                "value": "378892",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M10",
+                "periodName": "October",
+                "value": "395193",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M09",
+                "periodName": "September",
+                "value": "390516",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M08",
+                "periodName": "August",
+                "value": "389185",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M07",
+                "periodName": "July",
+                "value": "388726",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M06",
+                "periodName": "June",
+                "value": "381945",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M05",
+                "periodName": "May",
+                "value": "364018",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M04",
+                "periodName": "April",
+                "value": "364494",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M03",
+                "periodName": "March",
+                "value": "387648",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M02",
+                "periodName": "February",
+                "value": "391521",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M01",
+                "periodName": "January",
+                "value": "389867",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2020"
+            },
+            {
+                "year": "2019",
+                "period": "M12",
+                "periodName": "December",
+                "value": "392976",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M11",
+                "periodName": "November",
+                "value": "393553",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M10",
+                "periodName": "October",
+                "value": "394766",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M09",
+                "periodName": "September",
+                "value": "392859",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M08",
+                "periodName": "August",
+                "value": "390660",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M07",
+                "periodName": "July",
+                "value": "392604",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M06",
+                "periodName": "June",
+                "value": "390470",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M05",
+                "periodName": "May",
+                "value": "390239",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M04",
+                "periodName": "April",
+                "value": "390682",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M03",
+                "periodName": "March",
+                "value": "389205",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M02",
+                "periodName": "February",
+                "value": "388578",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M01",
+                "periodName": "January",
+                "value": "384370",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2019"
+            },
+            {
+                "year": "2018",
+                "period": "M12",
+                "periodName": "December",
+                "value": "386404",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M11",
+                "periodName": "November",
+                "value": "386252",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M10",
+                "periodName": "October",
+                "value": "386535",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M09",
+                "periodName": "September",
+                "value": "384116",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M08",
+                "periodName": "August",
+                "value": "380458",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M07",
+                "periodName": "July",
+                "value": "385132",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M06",
+                "periodName": "June",
+                "value": "384100",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M05",
+                "periodName": "May",
+                "value": "383124",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M04",
+                "periodName": "April",
+                "value": "383422",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M03",
+                "periodName": "March",
+                "value": "382731",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M02",
+                "periodName": "February",
+                "value": "381483",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M01",
+                "periodName": "January",
+                "value": "377611",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2018"
+            }
+        ],
+        "State": "South Carolina",
+        "Area": "Columbia, SC",
+        "Industry": "General"
+    },
+    {
+        "seriesID": "LAUMT452486000000005",
+        "data": [
+            {
+                "year": "2021",
+                "period": "M03",
+                "periodName": "March",
+                "latest": "true",
+                "value": "418153",
+                "footnotes": [
+                    {
+                        "code": "P",
+                        "text": "Preliminary."
+                    }
+                ],
+                "date": "March, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M02",
+                "periodName": "February",
+                "value": "414612",
+                "footnotes": [
+                    {}
+                ],
+                "date": "February, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M01",
+                "periodName": "January",
+                "value": "406460",
+                "footnotes": [
+                    {}
+                ],
+                "date": "January, 2021"
+            },
+            {
+                "year": "2020",
+                "period": "M12",
+                "periodName": "December",
+                "value": "405434",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M11",
+                "periodName": "November",
+                "value": "407031",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M10",
+                "periodName": "October",
+                "value": "422237",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M09",
+                "periodName": "September",
+                "value": "421131",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M08",
+                "periodName": "August",
+                "value": "417955",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M07",
+                "periodName": "July",
+                "value": "412705",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M06",
+                "periodName": "June",
+                "value": "404762",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M05",
+                "periodName": "May",
+                "value": "378601",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M04",
+                "periodName": "April",
+                "value": "377986",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M03",
+                "periodName": "March",
+                "value": "419045",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M02",
+                "periodName": "February",
+                "value": "421775",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M01",
+                "periodName": "January",
+                "value": "419825",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2020"
+            },
+            {
+                "year": "2019",
+                "period": "M12",
+                "periodName": "December",
+                "value": "422824",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M11",
+                "periodName": "November",
+                "value": "423251",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M10",
+                "periodName": "October",
+                "value": "424556",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M09",
+                "periodName": "September",
+                "value": "424082",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M08",
+                "periodName": "August",
+                "value": "420506",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M07",
+                "periodName": "July",
+                "value": "424745",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M06",
+                "periodName": "June",
+                "value": "425163",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M05",
+                "periodName": "May",
+                "value": "423048",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M04",
+                "periodName": "April",
+                "value": "424252",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M03",
+                "periodName": "March",
+                "value": "422390",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M02",
+                "periodName": "February",
+                "value": "421039",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M01",
+                "periodName": "January",
+                "value": "417197",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2019"
+            },
+            {
+                "year": "2018",
+                "period": "M12",
+                "periodName": "December",
+                "value": "419610",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M11",
+                "periodName": "November",
+                "value": "419208",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M10",
+                "periodName": "October",
+                "value": "420252",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M09",
+                "periodName": "September",
+                "value": "415549",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M08",
+                "periodName": "August",
+                "value": "411886",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M07",
+                "periodName": "July",
+                "value": "415214",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M06",
+                "periodName": "June",
+                "value": "414622",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M05",
+                "periodName": "May",
+                "value": "412589",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M04",
+                "periodName": "April",
+                "value": "412073",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M03",
+                "periodName": "March",
+                "value": "409958",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M02",
+                "periodName": "February",
+                "value": "407742",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M01",
+                "periodName": "January",
+                "value": "402971",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2018"
+            }
+        ],
+        "State": "South Carolina",
+        "Area": "Greenville-Anderson-Mauldin, SC",
+        "Industry": "General"
+    },
+    {
+        "seriesID": "LAUMT454390000000005",
+        "data": [
+            {
+                "year": "2021",
+                "period": "M03",
+                "periodName": "March",
+                "latest": "true",
+                "value": "163213",
+                "footnotes": [
+                    {
+                        "code": "P",
+                        "text": "Preliminary."
+                    }
+                ],
+                "date": "March, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M02",
+                "periodName": "February",
+                "value": "161762",
+                "footnotes": [
+                    {}
+                ],
+                "date": "February, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M01",
+                "periodName": "January",
+                "value": "158528",
+                "footnotes": [
+                    {}
+                ],
+                "date": "January, 2021"
+            },
+            {
+                "year": "2020",
+                "period": "M12",
+                "periodName": "December",
+                "value": "158722",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M11",
+                "periodName": "November",
+                "value": "158096",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M10",
+                "periodName": "October",
+                "value": "165396",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M09",
+                "periodName": "September",
+                "value": "163709",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M08",
+                "periodName": "August",
+                "value": "161881",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M07",
+                "periodName": "July",
+                "value": "158408",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M06",
+                "periodName": "June",
+                "value": "159636",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M05",
+                "periodName": "May",
+                "value": "148546",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M04",
+                "periodName": "April",
+                "value": "149177",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M03",
+                "periodName": "March",
+                "value": "162046",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M02",
+                "periodName": "February",
+                "value": "162559",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M01",
+                "periodName": "January",
+                "value": "162284",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2020"
+            },
+            {
+                "year": "2019",
+                "period": "M12",
+                "periodName": "December",
+                "value": "162585",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M11",
+                "periodName": "November",
+                "value": "163151",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M10",
+                "periodName": "October",
+                "value": "164153",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M09",
+                "periodName": "September",
+                "value": "163622",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M08",
+                "periodName": "August",
+                "value": "161464",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M07",
+                "periodName": "July",
+                "value": "161685",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M06",
+                "periodName": "June",
+                "value": "161912",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M05",
+                "periodName": "May",
+                "value": "161425",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M04",
+                "periodName": "April",
+                "value": "161751",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M03",
+                "periodName": "March",
+                "value": "161856",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M02",
+                "periodName": "February",
+                "value": "160603",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M01",
+                "periodName": "January",
+                "value": "159168",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2019"
+            },
+            {
+                "year": "2018",
+                "period": "M12",
+                "periodName": "December",
+                "value": "159073",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M11",
+                "periodName": "November",
+                "value": "159035",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M10",
+                "periodName": "October",
+                "value": "158439",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M09",
+                "periodName": "September",
+                "value": "156406",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M08",
+                "periodName": "August",
+                "value": "154148",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M07",
+                "periodName": "July",
+                "value": "154959",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M06",
+                "periodName": "June",
+                "value": "154765",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M05",
+                "periodName": "May",
+                "value": "154053",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M04",
+                "periodName": "April",
+                "value": "153757",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M03",
+                "periodName": "March",
+                "value": "153925",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M02",
+                "periodName": "February",
+                "value": "152971",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M01",
+                "periodName": "January",
+                "value": "151253",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2018"
+            }
+        ],
+        "State": "South Carolina",
+        "Area": "Spartanburg, SC",
+        "Industry": "General"
+    },
+    {
+        "seriesID": "LAUMT454494000000005",
+        "data": [
+            {
+                "year": "2021",
+                "period": "M03",
+                "periodName": "March",
+                "latest": "true",
+                "value": "41445",
+                "footnotes": [
+                    {
+                        "code": "P",
+                        "text": "Preliminary."
+                    }
+                ],
+                "date": "March, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M02",
+                "periodName": "February",
+                "value": "41197",
+                "footnotes": [
+                    {}
+                ],
+                "date": "February, 2021"
+            },
+            {
+                "year": "2021",
+                "period": "M01",
+                "periodName": "January",
+                "value": "41130",
+                "footnotes": [
+                    {}
+                ],
+                "date": "January, 2021"
+            },
+            {
+                "year": "2020",
+                "period": "M12",
+                "periodName": "December",
+                "value": "40903",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M11",
+                "periodName": "November",
+                "value": "40534",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M10",
+                "periodName": "October",
+                "value": "42256",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M09",
+                "periodName": "September",
+                "value": "41205",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M08",
+                "periodName": "August",
+                "value": "40795",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M07",
+                "periodName": "July",
+                "value": "40321",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M06",
+                "periodName": "June",
+                "value": "40592",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M05",
+                "periodName": "May",
+                "value": "38076",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M04",
+                "periodName": "April",
+                "value": "38361",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M03",
+                "periodName": "March",
+                "value": "41144",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M02",
+                "periodName": "February",
+                "value": "41612",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2020"
+            },
+            {
+                "year": "2020",
+                "period": "M01",
+                "periodName": "January",
+                "value": "41242",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2020"
+            },
+            {
+                "year": "2019",
+                "period": "M12",
+                "periodName": "December",
+                "value": "41413",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M11",
+                "periodName": "November",
+                "value": "41717",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M10",
+                "periodName": "October",
+                "value": "41915",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M09",
+                "periodName": "September",
+                "value": "42169",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M08",
+                "periodName": "August",
+                "value": "41681",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M07",
+                "periodName": "July",
+                "value": "42071",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M06",
+                "periodName": "June",
+                "value": "42114",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M05",
+                "periodName": "May",
+                "value": "41999",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M04",
+                "periodName": "April",
+                "value": "42135",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M03",
+                "periodName": "March",
+                "value": "41962",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M02",
+                "periodName": "February",
+                "value": "42043",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2019"
+            },
+            {
+                "year": "2019",
+                "period": "M01",
+                "periodName": "January",
+                "value": "41859",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2019"
+            },
+            {
+                "year": "2018",
+                "period": "M12",
+                "periodName": "December",
+                "value": "41549",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "December, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M11",
+                "periodName": "November",
+                "value": "41483",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "November, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M10",
+                "periodName": "October",
+                "value": "41884",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "October, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M09",
+                "periodName": "September",
+                "value": "41733",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "September, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M08",
+                "periodName": "August",
+                "value": "41285",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "August, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M07",
+                "periodName": "July",
+                "value": "42090",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "July, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M06",
+                "periodName": "June",
+                "value": "42000",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "June, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M05",
+                "periodName": "May",
+                "value": "42036",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "May, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M04",
+                "periodName": "April",
+                "value": "41859",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "April, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M03",
+                "periodName": "March",
+                "value": "41895",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "March, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M02",
+                "periodName": "February",
+                "value": "41809",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "February, 2018"
+            },
+            {
+                "year": "2018",
+                "period": "M01",
+                "periodName": "January",
+                "value": "41337",
+                "footnotes": [
+                    {
+                        "code": "T",
+                        "text": "Data were subject to revision on April 16, 2021."
+                    }
+                ],
+                "date": "January, 2018"
+            }
+        ],
+        "State": "South Carolina",
+        "Area": "Sumter, SC",
+        "Industry": "General"
+    }
+]
